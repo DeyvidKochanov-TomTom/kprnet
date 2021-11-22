@@ -21,6 +21,8 @@ python train_kitti.py \
   --checkpoint-dir your_output_dir
 ```
 
+The fully trained model weights can be downloaded [here](https://drive.google.com/file/d/11mUMdFPNT-05lC54Ru_2OwdwqTPV4jrW/view?usp=sharing) .
+
 ## Acknowledgments
 [KPConv](https://github.com/HuguesTHOMAS/KPConv-PyTorch) 
 
